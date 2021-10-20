@@ -1,3 +1,3 @@
 ## About me App
-## Description
+# Description
 This app was developed using flutter to display a bit of my profile.
